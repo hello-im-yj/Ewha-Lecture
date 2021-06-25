@@ -1,0 +1,4 @@
+﻿  Week11_1_김유진.cpp
+C:\Users\Yujin\source\repos\Week11_ASM1\Week11_1_김유진.cpp(12,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yujin\source\repos\Week11_ASM1\Week11_1_김유진.cpp(21,9): warning C4476:  'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ' '이(가) 있습니다.
+  Week11_ASM1.vcxproj -> C:\Users\Yujin\source\repos\Week11_ASM1\Debug\Week11_ASM1.exe

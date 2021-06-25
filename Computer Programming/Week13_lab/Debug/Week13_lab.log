@@ -1,0 +1,7 @@
+﻿  ex3.cpp
+C:\Users\Yujin\source\repos\Week13_lab\ex3.cpp(20,33): error C2664:  'void printComplex(complex,char [])': 인수 2을(를) 'const char (*)[8]'에서 'char []'(으)로 변환할 수 없습니다.
+C:\Users\Yujin\source\repos\Week13_lab\ex3.cpp(20,21): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\Yujin\source\repos\Week13_lab\ex3.cpp(22,38): error C2664:  'void printComplex(complex,char [])': 인수 2을(를) 'const char (*)[12]'에서 'char []'(으)로 변환할 수 없습니다.
+C:\Users\Yujin\source\repos\Week13_lab\ex3.cpp(22,22): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\Yujin\source\repos\Week13_lab\ex3.cpp(24,37): error C2664:  'void printComplex(complex,char [])': 인수 2을(를) 'const char (*)[12]'에서 'char []'(으)로 변환할 수 없습니다.
+C:\Users\Yujin\source\repos\Week13_lab\ex3.cpp(24,21): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
